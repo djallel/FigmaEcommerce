@@ -1,0 +1,9 @@
+:root {
+    --box-1: rgba(255, 193, 0, 1);
+    --box-2: rgba(255, 154, 0, 1);
+    --box-3: rgba(255, 116, 0, 1);
+    --box-4: rgba(255, 77, 0, 1);
+    --box-5: rgba(255, 0, 0, 1);
+    --collection-1-txtcolorbox: rgba(77, 77, 77, 1);
+    --collection-pixel-txtcolorbox-duplicate: rgba(77, 77, 77, 1);
+}

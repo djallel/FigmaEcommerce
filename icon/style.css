@@ -1,0 +1,304 @@
+.header-haut-et-bas {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.header-haut-et-bas .div {
+    background-color: #ffffff;
+    width: 1500px;
+    height: 127px;
+    position: relative;
+}
+
+.header-haut-et-bas .header-frame-bas {
+    height: 58px;
+    top: 55px;
+    position: absolute;
+    width: 1500px;
+    left: 0;
+    background-color: #ffffff;
+    overflow: hidden;
+}
+
+.header-haut-et-bas .icon-camion-blanc {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: -699px;
+    left: -121px;
+}
+
+.header-haut-et-bas .icon-phone-blanc {
+    position: absolute;
+    width: 24px;
+    height: 7px;
+    top: 51px;
+    left: 993px;
+}
+
+.header-haut-et-bas .icon-close-noir {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 18px;
+    left: 0;
+}
+
+.header-haut-et-bas .overlap-group {
+    position: relative;
+    width: 23px;
+    height: 23px;
+    top: 8px;
+    left: 8px;
+    background-image: url(./img/vector.svg);
+    background-size: 100% 100%;
+}
+
+.header-haut-et-bas .ellipse {
+    width: 21px;
+    height: 22px;
+    background-color: #ff9a006e;
+    border-radius: 10.5px/11px;
+}
+
+.header-haut-et-bas .contact-phone {
+    position: absolute;
+    width: 370px;
+    height: 47px;
+    top: 8px;
+    left: 55px;
+}
+
+.header-haut-et-bas .overlap {
+    position: relative;
+    width: 368px;
+    height: 47px;
+}
+
+.header-haut-et-bas .text-wrapper {
+    position: absolute;
+    width: 122px;
+    height: 32px;
+    top: 11px;
+    left: 0;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.header-haut-et-bas .logo-packdiscount {
+    position: absolute;
+    width: 263px;
+    height: 47px;
+    top: 0;
+    left: 105px;
+    object-fit: cover;
+}
+
+.header-haut-et-bas .frame-barre-de {
+    display: flex;
+    flex-direction: column;
+    width: 747px;
+    height: 49px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 2px;
+    left: 425px;
+}
+
+.header-haut-et-bas .frame {
+    position: relative;
+    width: 737px;
+    height: 33px;
+    margin-bottom: -4px;
+    margin-right: -10px;
+}
+
+.header-haut-et-bas .div-wrapper {
+    position: relative;
+    width: 728px;
+    height: 48px;
+    top: -6px;
+    background-image: url(./img/barre-de-recherche.svg);
+    background-size: 100% 100%;
+}
+
+.header-haut-et-bas .p {
+    position: absolute;
+    height: 23px;
+    top: 10px;
+    left: 9px;
+    font-family: "Roboto-Thin", Helvetica;
+    font-weight: 100;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.header-haut-et-bas .frame-2 {
+    position: absolute;
+    width: 271px;
+    height: 54px;
+    top: 0;
+    left: 1189px;
+    overflow: hidden;
+}
+
+.header-haut-et-bas .text-wrapper-2 {
+    position: absolute;
+    width: 235px;
+    height: 71px;
+    top: -8px;
+    left: 36px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #ff7400;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.header-haut-et-bas .overlap-2 {
+    position: absolute;
+    width: 35px;
+    height: 37px;
+    top: 12px;
+    left: 1px;
+}
+
+.header-haut-et-bas .icon-cmd-par-rfrence {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+.header-haut-et-bas .ellipse-2 {
+    position: absolute;
+    top: 15px;
+    left: 7px;
+    width: 21px;
+    height: 22px;
+    background-color: #ff9a006e;
+    border-radius: 10.5px/11px;
+}
+
+.header-haut-et-bas .header-frame-haut {
+    height: 55px;
+    top: 0;
+    position: absolute;
+    width: 1500px;
+    left: 0;
+    background-color: #ffffff;
+    overflow: hidden;
+}
+
+.header-haut-et-bas .overlap-3 {
+    position: relative;
+    width: 1920px;
+    height: 222px;
+    top: -83px;
+    left: -210px;
+    background-color: #ffc100;
+}
+
+.header-haut-et-bas .separator-line {
+    position: absolute;
+    width: 1500px;
+    height: 1px;
+    top: 137px;
+    left: 210px;
+    object-fit: cover;
+}
+
+.header-haut-et-bas .overlap-group-wrapper {
+    position: absolute;
+    width: 613px;
+    height: 71px;
+    top: 78px;
+    left: 292px;
+}
+
+.header-haut-et-bas .overlap-group-2 {
+    position: relative;
+    width: 609px;
+    height: 71px;
+}
+
+.header-haut-et-bas .element {
+    position: absolute;
+    width: 323px;
+    height: 71px;
+    top: 0;
+    left: 0;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.header-haut-et-bas .text-wrapper-3 {
+    position: absolute;
+    width: 323px;
+    height: 71px;
+    top: 0;
+    left: 286px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.header-haut-et-bas .img {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 99px;
+    left: 632px;
+}
+
+.header-haut-et-bas .ellipse-3 {
+    position: absolute;
+    width: 21px;
+    height: 22px;
+    top: 108px;
+    left: 635px;
+    background-color: #ff9a006e;
+    border-radius: 10.5px/11px;
+}
+
+.header-haut-et-bas .icon-phone-blanc-2 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 91px;
+    left: 315px;
+}
+
+.header-haut-et-bas .ellipse-4 {
+    position: absolute;
+    width: 21px;
+    height: 22px;
+    top: 94px;
+    left: 315px;
+    background-color: #ff9a006e;
+    border-radius: 10.5px/11px;
+}
